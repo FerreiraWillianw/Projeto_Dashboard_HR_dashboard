@@ -43,8 +43,18 @@ A última camada do projeto foca no fator que mais influencia os dois pilares an
 
 Capa: <img width="1088" height="613" alt="image" src="https://github.com/user-attachments/assets/72bc5455-72bb-4b4a-8fbe-8eae058459cf" />
 
+Página 1: <img width="1089" height="607" alt="image" src="https://github.com/user-attachments/assets/900b100c-dbc6-4a2d-8905-08c51094b2b0" />
 
-Link do relatório: # 🚀 Dashboard Interativo
+Página 2: <img width="1087" height="611" alt="image" src="https://github.com/user-attachments/assets/a63d4da5-f429-435d-be57-c8e5a630eb18" />
+
+Página 3: <img width="1087" height="611" alt="image" src="https://github.com/user-attachments/assets/49ce9abf-ac82-4d3a-b684-a0b468d833a3" />
+
+
+
+
+Link do relatório: 
+
+# 🚀 Dashboard Interativo
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Acesse_o_Projeto-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOWYxNjFlMzUtMDA2OC00ZWIyLTlhZGEtOTNkZGE1MjE1YmMwIiwidCI6IjJlZmMxNDk2LTE4NTktNDEyNy1iMDc4LTUwMTBhNGZlNGI5ZiJ9)
 
